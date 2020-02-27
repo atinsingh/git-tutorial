@@ -27,3 +27,9 @@ git push <remote_name> <branch_name>
 ```shell
 git pull <remote_name> <branch_name>
 ```
+
+```javascript
+ var fun = ()=> {
+    console.log("Learning fun")
+ }
+ ```
