@@ -16,4 +16,14 @@ git remote -v
 ```shell
 git remote add origin https://github.com/atinsingh/git-tutorial.git
 ```
+
 # learn to sync remote
+# push change to remote
+```shell
+git push <remote_name> <branch_name>
+```
+
+# pull change
+```shell
+git pull <remote_name> <branch_name>
+```
