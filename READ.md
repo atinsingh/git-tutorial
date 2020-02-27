@@ -16,3 +16,4 @@ git remote -v
 ```shell
 git remote add origin https://github.com/atinsingh/git-tutorial.git
 ```
+# learn to sync remote
